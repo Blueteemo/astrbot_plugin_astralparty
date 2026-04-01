@@ -3,6 +3,6 @@ display_name: 《吉星派对》随机挑战
 desc: 随机抽取游戏《吉星派对》中的地图和角色。
 version: v1.0 
 author: aurora4123 
-repo: https://github.com/Aurora4123/astrbot_plugin_astralparty # 插件的仓库地址
+repo: https://github.com/Aurora4123/astrbot_plugin_astralparty
 support_platforms:
   - aiocqhttp
